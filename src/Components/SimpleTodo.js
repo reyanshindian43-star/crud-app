@@ -54,10 +54,10 @@ function SimpleTodo() {
         </div>
       </div>
 
-      <div className="fixed bottom-0 inset-xs mb-1 flex justify-center">
-        <div className="font-mono text-xs font-bold bg-[#ffb200] rounded-lg w-96 p-2 text-white">
+      <div className="fixed bottom-0 inset-x-0 mb-1 flex justify-center">
+        <div className="font-mono text-xs font-bold bg-[#ffb200] rounded-lg w-96 p-2 text-white text-center">
           <span className="text-gray-950">Designed </span>
-          <span className="underline text-red-800"> By Reyansh</span>
+          <span className="underline text-red-800">By Reyansh</span>
         </div>
       </div>
     </>
